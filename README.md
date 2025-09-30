@@ -80,3 +80,7 @@
     </td>
   </tr>
 </table>
+
+---
+
+![green animate version](profile-3d-contrib/profile-green-animate.svg)
