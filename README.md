@@ -7,7 +7,6 @@
   />
 </div>
 
----
 
 <!-- 테이블 1: GitHub Stats | 연락처 / Velog / GitHub -->
 <table align="center" style="width: 100%; max-width: 1000px; border-collapse: collapse; text-align: center; margin-bottom: 0;">
