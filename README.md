@@ -83,4 +83,4 @@
 
 ---
 
-![green animate version](profile-3d-contrib/profile-green-animate.svg)
+![night green version](profile-3d-contrib/profile-night-green.svg)
