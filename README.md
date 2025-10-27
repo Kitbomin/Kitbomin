@@ -1,4 +1,4 @@
-<!-- 헤더 배너 -->
+  <!-- 헤더 배너 -->
 <div align="center">
   <img 
     src="https://capsule-render.vercel.app/api?type=waving&color=0:9f87ff,100:e8c6ff&height=200&section=header&text=Code%20With%20KitBomin&fontSize=40&fontColor=ffffff&fontAlign=70&fontAlignY=30&animation=fadeIn" 
@@ -57,6 +57,7 @@
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
             <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=000000" />
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white" />
             <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=000000" />
             <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white" />
